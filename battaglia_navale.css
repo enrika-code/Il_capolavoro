@@ -4,7 +4,6 @@ body{
     background-size: cover;
 }
 .contenitore {
-    background-blend-mode: overlay;
     display: flex;
     justify-items: normal;
     width: 1000px;
